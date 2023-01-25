@@ -2,6 +2,8 @@
 
 ## AIM:
 To develop a program to read from a csv file
+## EQUIPMENTS REQUIRED
+Hardware-PC Software-Python 3.7
 ## ALGORITHM:
 ### Step 1:
 Import the pandas library
