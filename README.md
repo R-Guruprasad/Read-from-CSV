@@ -8,7 +8,7 @@ Hardware-PC Software-Python 3.7
 ### Step 1:
 Import the pandas library
 ### Step 2:
-Read the csv file usinf read_csv method()
+Read the csv file using read_csv method()
 ### Step 3:
 Use file.head() method to read from beginning
 ### Step 4:
